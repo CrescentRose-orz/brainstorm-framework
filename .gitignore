@@ -1,0 +1,19 @@
+__pycache__
+
+data 
+wandb
+results
+results.backup
+
+logs 
+
+temp
+
+// playground.ipynb
+ct2app.ipynb
+.vscode
+exec_err_out_log.txt
+test.ipynb
+tmp.txt
+
+trash/**
